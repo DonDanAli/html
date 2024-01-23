@@ -1,0 +1,77 @@
+h1{
+    font: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 15px;
+}
+
+img{
+    border-radius: 60px;
+    padding-top: 25px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    font-size: small;
+    text-align: center;
+    padding-left: -50px;    
+}
+div{
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    margin-bottom: -20px;
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+
+}
+
+#navbar{
+    background-color: black;
+    float:none;
+}
+#first{
+font-weight: 500;
+background-color: whitesmoke;
+text-align: justify;
+}
+#second{
+    text-align: justify;
+}
+#third{
+    background-color: whitesmoke;
+    text-align: justify;
+}
+#fourth{
+    text-align: justify;
+
+}
+#fifth{
+background-color: whitesmoke;
+text-align: justify;
+}
+#container{
+    height: 480px;
+}
+#cont{
+    background-color: whitesmoke;
+    height: 450px;
+    align-self: center;
+    width: 40%;
+    margin-left: 25%;
+    text-align: center;
+}
